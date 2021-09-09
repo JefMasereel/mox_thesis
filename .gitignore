@@ -1,4 +1,5 @@
-/data
+# recommended to keep full dataset out of git repo, either by .gitignore or .dvc
+# /data 
 
 # ignore .asv files related to matlab scripts
 *.asv
